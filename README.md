@@ -6,9 +6,8 @@ Welcome to **Koffee + Te**, pronounced *"Coffee and Tea."* We aim to bring coffe
 
 ## Links
 * [GitHub](https://github.com/achance27/project_final2_chance_aliyah)
-* [Webpage]()
-* [HTML Validator]()
-* [CSS Validator]()
+* [Webpage](http://aliyahchance.com/project_final2_chance_aliyah/)
+* [Validator](https://validator.w3.org/unicorn/check?ucn_uri=aliyahchance.com%2Fproject_final2_chance_aliyah%2F&ucn_lang=en&ucn_task=conformance#)
 * [Outline](https://gsnedders.html5.org/outliner/process.py)
 
 ## Resources
