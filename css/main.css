@@ -90,6 +90,7 @@ p a:hover {
 	margin-left: 5%;
 	-webkit-box-shadow: 2px 2px 5px 2px #DEC05A;
 		box-shadow: 2px 2px 5px 2px #DEC05A;
+	max-width: 500px;
 }
 .button {
 	cursor: pointer;
